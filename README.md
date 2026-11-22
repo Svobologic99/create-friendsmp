@@ -1,6 +1,6 @@
-# Create FriendSMP
+# FriendSMP
 
-The official Minecraft modpack for FriendSMP Season 1, maintained by SvobologicStudios.
+The official Minecraft **Create Mod** modpack for FriendSMP Season 1, maintained by SvobologicStudios.
 
 ## Requirements
 
