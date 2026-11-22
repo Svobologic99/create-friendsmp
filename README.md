@@ -13,6 +13,6 @@ The pack is in early setup. Mods will be listed here as they’re added.
 
 ## How to join
 
-Installation instructions and the Packwiz download link will be added here once the pack is ready.
+You can't, its Private.
 
 **Let the adventure begin!**
