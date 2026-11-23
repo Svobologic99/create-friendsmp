@@ -13,10 +13,10 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Mod | Modrinth | CurseForge |
 |-----|----------|------------|
 | Create | [Modrinth.com](https://modrinth.com/mod/create) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create) |
-| Create Aeronautics | [Modrinth.com](https://modrinth.com/mods?q=Create+Aeronautics) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Aeronautics) |
+| Create Aeronautics | [Modrinth.com](https://modrinth.com/project/beLLRb6n) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) |
 | Create Aeronautics Curios Compat | [Modrinth.com](https://modrinth.com/mods?q=Create+Aeronautics+Curios+Compat) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Aeronautics+Curios+Compat) |
 | Create Aeronautics: Portable Engine Liquid Fuel | [Modrinth.com](https://modrinth.com/mods?q=Create+Aeronautics%3A+Portable+Engine+Liquid+Fuel) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Aeronautics%3A+Portable+Engine+Liquid+Fuel) |
-| Create Coin Craft | [Modrinth.com](https://modrinth.com/mods?q=Create+Coin+Craft) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Coin+Craft) |
+| Create Coin Craft | [Modrinth.com](https://modrinth.com/project/oHJc6Ier) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Coin+Craft) |
 | Create Curios Backtank | [Modrinth.com](https://modrinth.com/mods?q=Create+Curios+Backtank) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Curios+Backtank) |
 | Create Deco | [Modrinth.com](https://modrinth.com/mod/creates-deco) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create-deco) |
 | Create Diesel Generators | [Modrinth.com](https://modrinth.com/mod/create-diesel-generators) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create-diesel-generators) |
