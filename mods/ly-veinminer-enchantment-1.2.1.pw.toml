@@ -1,0 +1,12 @@
+name = "Veinminer Enchantment"
+filename = "ly-veinminer-enchantment-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EfcAYyUG/versions/zzMzaeLr/ly-veinminer-enchantment-1.2.1.jar"
+hash-format = "sha1"
+hash = "2acc52494c9ce43b479022fcabe4e639dad06978"
+
+[update.modrinth]
+mod-id = "EfcAYyUG"
+version = "zzMzaeLr"

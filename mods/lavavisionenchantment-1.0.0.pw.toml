@@ -1,0 +1,12 @@
+name = "Lava Vision Enchantment"
+filename = "lavavisionenchantment-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LhuaHK4I/versions/QhNHPGbo/lavavisionenchantment-1.0.0.jar"
+hash-format = "sha1"
+hash = "b7fddc69e34252e3664a0f5ae1d3c16b8c6e8a98"
+
+[update.modrinth]
+mod-id = "LhuaHK4I"
+version = "QhNHPGbo"

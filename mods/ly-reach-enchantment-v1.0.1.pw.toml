@@ -1,0 +1,12 @@
+name = "Reach Enchantment"
+filename = "ly-reach-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IDeYmXlQ/versions/87qy6uC6/ly-reach-enchantment-v1.0.1.jar"
+hash-format = "sha1"
+hash = "d886815cf205c5f3ccd82de4556bff2cb8c6c735"
+
+[update.modrinth]
+mod-id = "IDeYmXlQ"
+version = "87qy6uC6"

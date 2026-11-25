@@ -1,0 +1,12 @@
+name = "Numismatics treasury & Auction house"
+filename = "numismatics_treasury-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wxFW9HkD/versions/2OYpwG72/numismatics_treasury-1.0.2.jar"
+hash-format = "sha1"
+hash = "21b6fdb51d75992537452c157e0fa66e0ced6e6f"
+
+[update.modrinth]
+mod-id = "wxFW9HkD"
+version = "2OYpwG72"
