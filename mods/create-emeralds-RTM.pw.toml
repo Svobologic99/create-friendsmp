@@ -1,0 +1,12 @@
+name = "Create: Enhanced Emerald Production"
+filename = "create-emeralds-RTM.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pk44WkA1/versions/x9Mssq76/create-emeralds-RTM.jar"
+hash-format = "sha1"
+hash = "04444777f133dbc2317c7640c5b5e571b2989547"
+
+[update.modrinth]
+mod-id = "pk44WkA1"
+version = "x9Mssq76"

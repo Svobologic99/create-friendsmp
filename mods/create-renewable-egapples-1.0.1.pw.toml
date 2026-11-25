@@ -1,0 +1,12 @@
+name = "Create: Renewable Notch Apples"
+filename = "create-renewable-egapples-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qpDVQtGR/versions/1kUBuEx8/create-renewable-egapples-1.0.1.jar"
+hash-format = "sha1"
+hash = "95f05b107479829174750ce1705b5b23d1d27fe9"
+
+[update.modrinth]
+mod-id = "qpDVQtGR"
+version = "1kUBuEx8"

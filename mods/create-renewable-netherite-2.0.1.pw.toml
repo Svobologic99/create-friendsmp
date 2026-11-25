@@ -1,0 +1,12 @@
+name = "Create: Renewable Netherite"
+filename = "create-renewable-netherite-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nGq1sdd2/versions/qhKlkgfZ/create-renewable-netherite-2.0.1.jar"
+hash-format = "sha1"
+hash = "b7894ab76bcb28768af3c8277c6384992884170e"
+
+[update.modrinth]
+mod-id = "nGq1sdd2"
+version = "qhKlkgfZ"

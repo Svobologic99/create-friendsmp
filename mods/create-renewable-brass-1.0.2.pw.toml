@@ -1,0 +1,12 @@
+name = "Create: Renewable Brass"
+filename = "create-renewable-brass-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AqQzrKJo/versions/Nlbe2Hef/create-renewable-brass-1.0.2.jar"
+hash-format = "sha1"
+hash = "e5d081b3d143c8162c3e72b5081b4de336b06846"
+
+[update.modrinth]
+mod-id = "AqQzrKJo"
+version = "Nlbe2Hef"
