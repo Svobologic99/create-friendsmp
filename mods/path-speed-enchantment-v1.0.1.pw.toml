@@ -1,0 +1,12 @@
+name = "Path Speed Enchantment"
+filename = "path-speed-enchantment-v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49YsmTu2/versions/sKNEDyFt/path-speed-enchantment-v1.0.1.jar"
+hash-format = "sha1"
+hash = "403e1b517f4cdaffec341687cd7f3bf18fee463c"
+
+[update.modrinth]
+mod-id = "49YsmTu2"
+version = "sKNEDyFt"
