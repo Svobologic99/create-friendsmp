@@ -1,0 +1,12 @@
+name = "Thunder Strike Enchantment"
+filename = "thunder-strike-enchantment-v1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fo9zZHHi/versions/SapTwTA8/thunder-strike-enchantment-v1.0.0.jar"
+hash-format = "sha1"
+hash = "8aae126f47db2fc54b97f5d5698d2163d7cd1f81"
+
+[update.modrinth]
+mod-id = "Fo9zZHHi"
+version = "SapTwTA8"

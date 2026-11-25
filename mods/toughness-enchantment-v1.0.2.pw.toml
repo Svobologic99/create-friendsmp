@@ -1,0 +1,12 @@
+name = "Toughness Enchantment"
+filename = "toughness-enchantment-v1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ymrMIbqo/versions/I28YhcEz/toughness-enchantment-v1.0.2.jar"
+hash-format = "sha1"
+hash = "340ff22d4148dc0b4b6a28c740925a27fbfae124"
+
+[update.modrinth]
+mod-id = "ymrMIbqo"
+version = "I28YhcEz"

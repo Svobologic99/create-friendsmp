@@ -1,0 +1,12 @@
+name = "Universal Enchantment Info (JEI/REI/EMI/RRV)"
+filename = "uei-1.6.0-neoforge+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c39iXKSf/versions/X9Od6Ryg/uei-1.6.0-neoforge%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "8b315b40ee5b62f1a2e30f9cb3302e6169fb352a"
+
+[update.modrinth]
+mod-id = "c39iXKSf"
+version = "X9Od6Ryg"

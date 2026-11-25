@@ -1,0 +1,12 @@
+name = "Unlimited Trading"
+filename = "unlimited-trading-3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NzkisNaN/versions/J1AKVLDh/unlimited-trading-3.3.jar"
+hash-format = "sha1"
+hash = "41687ae74c11835832ac009a783bd31fd792791f"
+
+[update.modrinth]
+mod-id = "NzkisNaN"
+version = "J1AKVLDh"

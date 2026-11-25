@@ -1,0 +1,12 @@
+name = "Trade Cycling"
+filename = "trade-cycling-neoforge-1.21.1-1.0.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qpPoAL6m/versions/9dxmi65z/trade-cycling-neoforge-1.21.1-1.0.23.jar"
+hash-format = "sha1"
+hash = "e72bceb0d118839658f3eda9a60301b50fcef01c"
+
+[update.modrinth]
+mod-id = "qpPoAL6m"
+version = "9dxmi65z"
