@@ -1,0 +1,12 @@
+name = "Create JEI Compat"
+filename = "createjeicompat-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fkSpqmV/versions/H8zVoq1O/createjeicompat-1.0.3.jar"
+hash-format = "sha1"
+hash = "3435d67651913cf2105a4994d9a6af2873df37ac"
+
+[update.modrinth]
+mod-id = "1fkSpqmV"
+version = "H8zVoq1O"

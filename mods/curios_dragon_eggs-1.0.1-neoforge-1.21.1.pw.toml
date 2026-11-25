@@ -1,0 +1,12 @@
+name = "Curios Dragon Eggs"
+filename = "curios_dragon_eggs-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEiSh55y/versions/mNnGP7KC/curios_dragon_eggs-1.0.1-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "9354606e8ec190f34acb7b2513bfc9e261ded049"
+
+[update.modrinth]
+mod-id = "WEiSh55y"
+version = "mNnGP7KC"
