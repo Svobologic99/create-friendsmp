@@ -1,0 +1,12 @@
+name = "Downfall Enchantment"
+filename = "downfall-enchantment-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DATDIjwD/versions/K24wgA8a/downfall-enchantment-1.0.0.jar"
+hash-format = "sha1"
+hash = "45f9fd97076df9ae0a697dea34cc1dd7f1f04836"
+
+[update.modrinth]
+mod-id = "DATDIjwD"
+version = "K24wgA8a"
