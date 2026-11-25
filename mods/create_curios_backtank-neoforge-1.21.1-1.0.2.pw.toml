@@ -1,0 +1,12 @@
+name = "Create: Curios Backtank"
+filename = "create_curios_backtank-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuKy9y7l/versions/dUEAeRGL/create_curios_backtank-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "39535a4135422733ded077d46696492d252d8403"
+
+[update.modrinth]
+mod-id = "WuKy9y7l"
+version = "dUEAeRGL"

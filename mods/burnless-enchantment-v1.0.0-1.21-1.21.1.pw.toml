@@ -1,0 +1,12 @@
+name = "Burnless Enchantment"
+filename = "burnless-enchantment-v1.0.0-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XMrTAtpK/versions/sOl2c5xB/burnless-enchantment-v1.0.0-1.21-1.21.1.jar"
+hash-format = "sha1"
+hash = "182cb1af8d692d41d732d3871ae8a35dcd599756"
+
+[update.modrinth]
+mod-id = "XMrTAtpK"
+version = "sOl2c5xB"

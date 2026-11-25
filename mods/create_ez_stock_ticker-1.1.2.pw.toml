@@ -1,0 +1,12 @@
+name = "Create: Easy Stock Ticker"
+filename = "create_ez_stock_ticker-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qYDytzUC/versions/QbAj26pf/create_ez_stock_ticker-1.1.2.jar"
+hash-format = "sha1"
+hash = "d6430c19c156096a7c03537d5e4c48c6384f4eff"
+
+[update.modrinth]
+mod-id = "qYDytzUC"
+version = "QbAj26pf"
