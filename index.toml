@@ -789,3 +789,7 @@ metafile = true
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.pw.toml"
 hash = "ff3335a542bf77c2a53cc71740512f19c65b99e8a239429216004c1ba226280a"
 metafile = true
+
+[[files]]
+file = "mods/friendsmp-updater-1.0.0.jar"
+hash = "3a11d70428fe28a931d7ad1359a042b1cf1974ab0471ba5ff3b28b20cb2e33e7"
