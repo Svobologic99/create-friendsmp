@@ -791,5 +791,5 @@ hash = "ff3335a542bf77c2a53cc71740512f19c65b99e8a239429216004c1ba226280a"
 metafile = true
 
 [[files]]
-file = "mods/CreateFriendSMP-1.0.0.jar"
-hash = "4060678235910f0174d7a6b6a1ef383b73740f5c895b3929f0fbe4941b78efe5"
+file = "mods/CreateFriendSMP-1.0.1.jar"
+hash = "969e151aa6662e541d98c9b16034b10f7e887f70076c4fa88d2007ecca092033"
