@@ -1,0 +1,3 @@
+# Modrinth mods to add to the Create FriendSMP pack (one slug per line).
+# Push this file and GitHub adds them (and required libraries) to mods/. Existing mods are never touched.
+open-parties-and-claims

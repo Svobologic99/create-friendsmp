@@ -1,4 +1,4 @@
-name: Sync resource packs
+name: Sync resource packs and new mods
 
 on:
   push:
@@ -6,6 +6,8 @@ on:
     paths:
       - 'updater/resourcepacks.txt'
       - 'updater/add_resourcepacks.py'
+      - 'updater/mods-to-add.txt'
+      - 'updater/add_mods.py'
       - '.github/workflows/resourcepacks.yml'
 
 permissions:
@@ -26,8 +28,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           python3 updater/add_resourcepacks.py . 2>&1 | tee rp.log
-          git add -A resourcepacks index.toml pack.toml
-          git commit -m "Sync resource packs" || echo "nothing changed"
+          python3 updater/add_mods.py . 2>&1 | tee -a rp.log
+          git add -A resourcepacks mods index.toml pack.toml
+          git commit -m "Sync resource packs and new mods" || echo "nothing changed"
           git pull --rebase origin main
           git push
       - name: Save log on failure
