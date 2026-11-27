@@ -791,10 +791,6 @@ hash = "ff3335a542bf77c2a53cc71740512f19c65b99e8a239429216004c1ba226280a"
 metafile = true
 
 [[files]]
-file = "mods/CreateFriendSMP-1.0.1.jar"
-hash = "bcc0e22b299a0f8b82015f86ee02be542172bfb028ba09199a5b710941e9fa03"
-
-[[files]]
 file = "resourcepacks/create-sophisticated-storages.pw.toml"
 hash = "fa6b3ee31ea236f7dd2aeb5299383ca648056511f5e202f35833415bc14ae1c0"
 metafile = true
@@ -823,3 +819,7 @@ metafile = true
 file = "mods/open-parties-and-claims-neoforge-1.21.1-0.33.0.pw.toml"
 hash = "72d18c7844eaf30c71b2331e4c03ac7b7ae8d75fe7ef29db2dad9e4b00a0f358"
 metafile = true
+
+[[files]]
+file = "mods/CreateFriendSMP-1.0.1.jar"
+hash = "97dac98f57c9b26d9a5b1be3f3aae85ce9c6fd9ec4c236165fdbe071cbe88780"
