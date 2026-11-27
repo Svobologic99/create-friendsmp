@@ -316,11 +316,6 @@ hash = "695c46bcda128a2a414d305f4919a293f72661936dbd158359e07cbafe2a2356"
 metafile = true
 
 [[files]]
-file = "mods/create_winery-2.0.3-neoforge-1.21.1.pw.toml"
-hash = "6f9804033e77c27805a7277979b1ea0be10075e0b957a243173c117745246d1f"
-metafile = true
-
-[[files]]
 file = "mods/createaeronauticscurios-neoforge-1.21.1-2.2.pw.toml"
 hash = "96c7af24d89728df4cb2c529d406f4f3ac36e36bf059fcd8b6be1dc606f18f17"
 metafile = true
@@ -753,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/vision-enchantment-v1.0.0.pw.toml"
 hash = "34c1ecfcea2708a5a1786740660f8e885dcfe12cedfc155e115f945033da3279"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.1-2.6.27.pw.toml"
+hash = "1c46409e542b52a9e9c7ffc4b289c92a39b66d6a6dbccfb0ac4efbe4b6124eef"
 metafile = true
 
 [[files]]

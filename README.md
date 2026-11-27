@@ -59,7 +59,6 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Create: Trading Floor | [Modrinth.com](https://modrinth.com/mods?q=Create%3A+Trading+Floor) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create%3A+Trading+Floor) |
 | Create: Ultimate Factory | [Modrinth.com](https://modrinth.com/mods?q=Create%3A+Ultimate+Factory) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create%3A+Ultimate+Factory) |
 | Create: Vibrant Vaults | [Modrinth.com](https://modrinth.com/mods?q=Create%3A+Vibrant+Vaults) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create%3A+Vibrant+Vaults) |
-| Create: Winery | [Modrinth.com](https://modrinth.com/mods?q=Create%3A+Winery) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create%3A+Winery) |
 | CreateCardboardThings | [Modrinth.com](https://modrinth.com/mods?q=CreateCardboardThings) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=CreateCardboardThings) |
 | CreateSchematicHelper | [Modrinth.com](https://modrinth.com/mods?q=CreateSchematicHelper) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=CreateSchematicHelper) |
 | Design n' Decor | [Modrinth.com](https://modrinth.com/mods?q=Design+n%27+Decor) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create-design-n-decor) |
@@ -164,6 +163,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Rechiseled: Create | [Modrinth.com](https://modrinth.com/mods?q=Rechiseled%3A+Create) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/rechiseled) |
 | SecurityCraft | [Modrinth.com](https://modrinth.com/mods?q=SecurityCraft) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=SecurityCraft) |
 | ShulkerBoxTooltip | [Modrinth.com](https://modrinth.com/mod/shulkerbox-tooltip) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) |
+| Simple Voice Chat | [Modrinth.com](https://modrinth.com/plugin/simple-voice-chat) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) |
 | Sophisticated Backpacks | [Modrinth.com](https://modrinth.com/mod/sophisticated-backpacks) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) |
 | Sophisticated Storage | [Modrinth.com](https://modrinth.com/mod/sophisticated-storage) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) |
 | spark | [Modrinth.com](https://modrinth.com/mod/spark) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/spark) |
