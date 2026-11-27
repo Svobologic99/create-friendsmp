@@ -5,11 +5,17 @@ on:
     branches: [main]
     paths:
       - 'updater/**'
+      - '!updater/resourcepacks.txt'
+      - '!updater/add_resourcepacks.py'
       - '.github/workflows/build-updater.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: pack-index
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -43,6 +49,7 @@ jobs:
           python3 updater/publish.py . "$JAR"
           git add -A mods index.toml pack.toml
           git commit -m "Update FriendSMP Updater jar" || echo "nothing changed"
+          git pull --rebase origin main
           git push
 
       - uses: actions/upload-artifact@v4

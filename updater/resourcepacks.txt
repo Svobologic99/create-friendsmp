@@ -1,0 +1,7 @@
+# Modrinth resource packs for the Create FriendSMP pack (one slug per line).
+# Edit this file and push: GitHub adds/removes them in resourcepacks/ automatically.
+create-sophisticated-storages
+create-touch-ups
+create-style-interface
+farcrs-re-create
+create-sophisticated-backpacks
