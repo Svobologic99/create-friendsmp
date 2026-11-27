@@ -7,7 +7,7 @@ version = mod_version
 group = 'com.svobologicstudios'
 
 base {
-    archivesName = 'friendsmp-updater'
+    archivesName = 'CreateFriendSMP'
 }
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)

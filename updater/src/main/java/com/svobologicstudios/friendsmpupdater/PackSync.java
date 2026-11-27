@@ -47,7 +47,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 public final class PackSync {
     public static final String DEFAULT_PACK_URL =
             "https://raw.githubusercontent.com/Svobologic99/create-friendsmp/main/pack.toml";
-    private static final String UPDATER_PREFIX = "friendsmp-updater";
+    /** File names the updater jar has had (current first). */
+    private static final String[] UPDATER_PREFIXES = {"createfriendsmp-", "friendsmp-updater"};
     private static final String USER_AGENT =
             "SvobologicStudios/friendsmp-updater (github.com/Svobologic99/create-friendsmp)";
     private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
@@ -327,13 +328,13 @@ public final class PackSync {
         // 2) Jars in mods/ we never installed: old copies of pack mods (other version) or old updater jars.
         Path modsDir = gameDir.resolve("mods");
         if (!Files.isDirectory(modsDir)) return;
-        boolean packHasUpdater = targets.keySet().stream().anyMatch(r -> r.startsWith("mods/" + UPDATER_PREFIX));
+        boolean packHasUpdater = targets.keySet().stream().anyMatch(r -> r.startsWith("mods/") && isUpdaterName(r.substring(5)));
         Map<String, Path> unknown = new LinkedHashMap<>();
         try (DirectoryStream<Path> ds = Files.newDirectoryStream(modsDir, "*.jar")) {
             for (Path p : ds) {
                 String rel = "mods/" + p.getFileName();
                 if (targets.containsKey(rel) || state.managed.contains(rel)) continue;
-                if (p.getFileName().toString().toLowerCase(Locale.ROOT).startsWith(UPDATER_PREFIX)) {
+                if (isUpdaterName(p.getFileName().toString()) || isOwnJar(p)) {
                     if (packHasUpdater) remove(p, pending);
                     continue;
                 }
@@ -372,6 +373,21 @@ public final class PackSync {
             }
         } catch (Exception e) {
             FriendSmpUpdater.LOG.warn("[FriendSMP Updater] Modrinth lookup failed", e);
+        }
+    }
+
+    private static boolean isUpdaterName(String name) {
+        String n = name.toLowerCase(Locale.ROOT);
+        for (String prefix : UPDATER_PREFIXES) if (n.startsWith(prefix)) return true;
+        return false;
+    }
+
+    /** True if this file is the jar we are running from, whatever it was renamed to. */
+    private boolean isOwnJar(Path p) {
+        try {
+            return ownJar != null && Files.isRegularFile(ownJar) && Files.isSameFile(p, ownJar);
+        } catch (IOException e) {
+            return false;
         }
     }
 

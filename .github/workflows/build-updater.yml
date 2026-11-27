@@ -39,7 +39,7 @@ jobs:
       - name: Put the jar into the modpack
         shell: bash
         run: |
-          JAR=$(ls updater/build/libs/friendsmp-updater-*.jar | grep -v -- '-sources' | head -1)
+          JAR=$(ls updater/build/libs/CreateFriendSMP-*.jar | grep -v -- '-sources' | head -1)
           python3 updater/publish.py . "$JAR"
           git add -A mods index.toml pack.toml
           git commit -m "Update FriendSMP Updater jar" || echo "nothing changed"
