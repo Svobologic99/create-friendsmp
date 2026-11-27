@@ -161,6 +161,11 @@ hash = "203695bc6e0e9dfed8d1fc6883b800b6d72b065970d975aa899259b1d3968d27"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-5.7-neoforge.pw.toml"
+hash = "453a7715ab1f8e9d9de6557a4839ee96346f1da87eb3a29217d6e03a8e2450fc"
+metafile = true
+
+[[files]]
 file = "mods/burnless-enchantment-v1.0.0-1.21-1.21.1.pw.toml"
 hash = "95c633825f264e8804b6f71016ed4e38cc51445e2479b397b109af1e753848d3"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/create_bluemap-1.1.1.pw.toml"
+hash = "bda4160336d1f6b980d9b74f78e91b66eddd85dfaf3dbac8514383808a67f0bd"
 metafile = true
 
 [[files]]

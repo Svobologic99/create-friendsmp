@@ -16,6 +16,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Create Aeronautics | [Modrinth.com](https://modrinth.com/project/beLLRb6n) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create-aeronautics) |
 | Create Aeronautics Curios Compat | [Modrinth.com](https://modrinth.com/mods?q=Create+Aeronautics+Curios+Compat) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Aeronautics+Curios+Compat) |
 | Create Aeronautics: Portable Engine Liquid Fuel | [Modrinth.com](https://modrinth.com/mods?q=Create+Aeronautics%3A+Portable+Engine+Liquid+Fuel) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Aeronautics%3A+Portable+Engine+Liquid+Fuel) |
+| Create BlueMap | [Modrinth.com](https://modrinth.com/mod/create-bluemap) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+BlueMap) |
 | Create Coin Craft | [Modrinth.com](https://modrinth.com/project/oHJc6Ier) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Coin+Craft) |
 | Create Curios Backtank | [Modrinth.com](https://modrinth.com/mods?q=Create+Curios+Backtank) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Create+Curios+Backtank) |
 | Create Deco | [Modrinth.com](https://modrinth.com/mod/creates-deco) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/create-deco) |
@@ -135,6 +136,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | AppleSkin | [Modrinth.com](https://modrinth.com/mod/appleskin) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 | BetterF3 | [Modrinth.com](https://modrinth.com/mod/betterf3) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/betterf3) |
 | Biomes O' Plenty | [Modrinth.com](https://modrinth.com/mod/biomes-o-plenty) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) |
+| BlueMap | [Modrinth.com](https://modrinth.com/plugin/bluemap) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/bluemap) |
 | Chat Heads | [Modrinth.com](https://modrinth.com/mod/chat-heads) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/chat-heads) |
 | Chipped | [Modrinth.com](https://modrinth.com/mod/chipped) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/chipped) |
 | Clumps | [Modrinth.com](https://modrinth.com/mod/clumps) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/clumps) |

@@ -1,0 +1,12 @@
+name = "Create BlueMap"
+filename = "create_bluemap-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W9e7rf1y/versions/B1EqQDIC/create_bluemap-1.1.1.jar"
+hash-format = "sha1"
+hash = "f914e3e35453f7aaca898441994d31cd89bc3a90"
+
+[update.modrinth]
+mod-id = "W9e7rf1y"
+version = "B1EqQDIC"
