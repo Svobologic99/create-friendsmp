@@ -16,6 +16,11 @@ hash = "db3bb70b7d24ef8bac2ce24da97406078b7f817896b2885552a3ff83a8819562"
 metafile = true
 
 [[files]]
+file = "mods/CosmeticArmours - 1.6.0.2 - 1.21.1 - NeoForge.pw.toml"
+hash = "5ca18f66e7236414ca520b3e996e21ff797b2f7a14b781ce5f9ece8a6993bb32"
+metafile = true
+
+[[files]]
 file = "mods/Create Encased-1.21.1-1.10.1-fix1.pw.toml"
 hash = "961e50be5d046fc615dfc724850d1071514d2cb7b2528d30b6a5d13a72c159f1"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.6.pw.toml"
 hash = "1a3bbc94ce649bd7cb254bc92415d50895141a12ecba3e1e8a4a2650f92dbc66"
+metafile = true
+
+[[files]]
+file = "mods/Patchouli-1.21.1-93-NEOFORGE.pw.toml"
+hash = "f25479855f663f2f258f01b62198067ac3c96277ea204261e3206d52fc385ec1"
 metafile = true
 
 [[files]]
@@ -461,6 +471,11 @@ hash = "357e05ae2442a0717ebba689d5a8058bb05d4f612335ffbe11f505cdf02214ad"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-neoforge-1.21.1-1.0.40.pw.toml"
+hash = "2cff9fe9496691e8b0db14f8e21f179e250a4a777b560a2e7330785313fcf4ae"
+metafile = true
+
+[[files]]
 file = "mods/gravity-enchantment-v1.0.0.pw.toml"
 hash = "483b087226b8ec3ff356a4321c96a9c436bf20fecac4bbda1e456d5c785cf734"
 metafile = true
@@ -648,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.23.246.pw.toml"
 hash = "bd76dd2ba620b0b403860e9b194f5e8a76699d9ddd5758807b3a3849b308328f"
+metafile = true
+
+[[files]]
+file = "mods/spark-1.10.124-neoforge.pw.toml"
+hash = "cb7e5aedfd8f0050472cb991fd515e545b4e7308aa8b1ec1cf66c2cffc768512"
 metafile = true
 
 [[files]]

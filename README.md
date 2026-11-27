@@ -117,6 +117,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Mezz Config | [Modrinth.com](https://modrinth.com/mods?q=Mezz+Config) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Mezz+Config) |
 | Moonlight Lib | [Modrinth.com](https://modrinth.com/mod/moonlight) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/moonlight) |
 | NukaTeam's Gun Lib | [Modrinth.com](https://modrinth.com/mods?q=NukaTeam%27s+Gun+Lib) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=NukaTeam%27s+Gun+Lib) |
+| Patchouli | [Modrinth.com](https://modrinth.com/mod/patchouli) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/patchouli) |
 | Resourceful Lib | [Modrinth.com](https://modrinth.com/mod/resourceful-lib) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) |
 | Sable | [Modrinth.com](https://modrinth.com/mods?q=Sable) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Sable) |
 | Sophisticated Core | [Modrinth.com](https://modrinth.com/mod/sophisticated-core) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) |
@@ -138,6 +139,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Chat Heads | [Modrinth.com](https://modrinth.com/mod/chat-heads) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/chat-heads) |
 | Chipped | [Modrinth.com](https://modrinth.com/mod/chipped) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/chipped) |
 | Clumps | [Modrinth.com](https://modrinth.com/mod/clumps) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/clumps) |
+| CosmeticArmours | [Modrinth.com](https://modrinth.com/mod/cosmeticarmours) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=CosmeticArmours) |
 | Curios Eggs | [Modrinth.com](https://modrinth.com/mods?q=Curios+Eggs) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Curios+Eggs) |
 | Dynamic FPS | [Modrinth.com](https://modrinth.com/mod/dynamic-fps) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) |
 | Easy Villagers | [Modrinth.com](https://modrinth.com/mod/easy-villagers) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) |
@@ -147,6 +149,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | Fast IP Ping | [Modrinth.com](https://modrinth.com/mod/fast-ip-ping) | [CurseForge.com](https://www.curseforge.com/minecraft/search?search=Fast+IP+Ping) |
 | Ferrite Core | [Modrinth.com](https://modrinth.com/mod/ferrite-core) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/ferrite-core) |
 | Fortunate Ancient Debris | [Modrinth.com](https://modrinth.com/datapack/fortunate-ancient-debris) | - |
+| Gravestone Mod | [Modrinth.com](https://modrinth.com/mod/gravestone-mod) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) |
 | ImmediatelyFast | [Modrinth.com](https://modrinth.com/mod/immediatelyfast) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) |
 | Jade | [Modrinth.com](https://modrinth.com/mod/jade) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/jade) |
 | Just Enough Items | [Modrinth.com](https://modrinth.com/mod/jei) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/jei) |
@@ -163,6 +166,7 @@ The official Minecraft **Create Mod** modpack for FriendSMP Season 1
 | ShulkerBoxTooltip | [Modrinth.com](https://modrinth.com/mod/shulkerbox-tooltip) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) |
 | Sophisticated Backpacks | [Modrinth.com](https://modrinth.com/mod/sophisticated-backpacks) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) |
 | Sophisticated Storage | [Modrinth.com](https://modrinth.com/mod/sophisticated-storage) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage) |
+| spark | [Modrinth.com](https://modrinth.com/mod/spark) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/spark) |
 | Supplementaries | [Modrinth.com](https://modrinth.com/mod/supplementaries) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/supplementaries) |
 | Supplementaries Squared | [Modrinth.com](https://modrinth.com/mod/supplementaries-squared) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) |
 | Trade Cycling | [Modrinth.com](https://modrinth.com/mod/trade-cycling) | [CurseForge.com](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) |

@@ -1,0 +1,12 @@
+name = "CosmeticArmours"
+filename = "CosmeticArmours - 1.6.0.2 - 1.21.1 - NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3JIzTFR/versions/s61pZrP5/CosmeticArmours%20-%201.6.0.2%20-%201.21.1%20-%20NeoForge.jar"
+hash-format = "sha1"
+hash = "36c9b182b076d458f6b7724ed65deb0eb02ec3f6"
+
+[update.modrinth]
+mod-id = "H3JIzTFR"
+version = "s61pZrP5"
