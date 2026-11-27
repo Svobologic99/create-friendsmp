@@ -1,0 +1,13 @@
+name = "Create Style Sophisticated Storages"
+filename = "CreateSophStorage.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9MkP9t9t/versions/gmkQsXXv/CreateSophStorage.zip"
+hash-format = "sha1"
+hash = "51d06ef9f22b9716c99d911a8aa1cb5b0c7ed318"
+
+[update]
+[update.modrinth]
+mod-id = "9MkP9t9t"
+version = "gmkQsXXv"

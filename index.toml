@@ -793,3 +793,28 @@ metafile = true
 [[files]]
 file = "mods/CreateFriendSMP-1.0.1.jar"
 hash = "969e151aa6662e541d98c9b16034b10f7e887f70076c4fa88d2007ecca092033"
+
+[[files]]
+file = "resourcepacks/create-sophisticated-storages.pw.toml"
+hash = "fa6b3ee31ea236f7dd2aeb5299383ca648056511f5e202f35833415bc14ae1c0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-touch-ups.pw.toml"
+hash = "cf90da3351cfd23bcb7af4857d7436f45ff5d2898f8882c691b083ce633b7f3b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-interface.pw.toml"
+hash = "a0e08d8f4dc5f2394f4f2bbfd499a8ca3f009a60cb90c961a31875b918892ece"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-create.pw.toml"
+hash = "3976f9b709485c8f41eff5d7446026e3d3fe8258b2df86219139d9ea1eb805c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "ba5a5a2006faa71e14e29368fd06b6515c164c231e9988713d236e3c55200f44"
+metafile = true

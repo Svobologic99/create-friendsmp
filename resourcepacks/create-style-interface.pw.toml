@@ -1,0 +1,13 @@
+name = "Create Style Interface"
+filename = "Create Style Interface 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LkwIaJEE/versions/ycjMotjK/Create%20Style%20Interface%201.21.zip"
+hash-format = "sha1"
+hash = "238ad87f4b102b242c54e275fc839f957ecc7eff"
+
+[update]
+[update.modrinth]
+mod-id = "LkwIaJEE"
+version = "ycjMotjK"
