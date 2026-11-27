@@ -44,10 +44,23 @@ public final class FriendSmpUpdater {
     }
 
     private static void onScreenOpening(ScreenEvent.Opening event) {
-        if (screenShown || result == null || !result.needsRestart()) return;
+        if (screenShown || result == null) return;
         if (event.getNewScreen() instanceof TitleScreen title) {
             screenShown = true;
-            event.setNewScreen(new RestartScreen(result, title));
+            try {
+                ClientExtras.addServer();
+            } catch (Throwable t) {
+                LOG.warn("[FriendSMP Updater] Could not add the server to the server list", t);
+            }
+            if (result.needsRestart()) {
+                event.setNewScreen(new RestartScreen(result, title));
+            } else {
+                try {
+                    ClientExtras.enableResourcePacks(result.resourcePacks);
+                } catch (Throwable t) {
+                    LOG.warn("[FriendSMP Updater] Could not enable resource packs", t);
+                }
+            }
         }
     }
 }

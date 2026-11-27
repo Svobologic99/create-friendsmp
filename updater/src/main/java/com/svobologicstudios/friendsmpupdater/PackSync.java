@@ -57,6 +57,8 @@ public final class PackSync {
         public int added, updated, removed;
         public boolean pendingOps;
         public String error;
+        /** Resource pack file names (in resourcepacks/) that belong to the pack. */
+        public List<String> resourcePacks = new ArrayList<>();
 
         public boolean needsRestart() {
             return added + updated + removed > 0 || pendingOps;
@@ -220,6 +222,16 @@ public final class PackSync {
             }
         } finally {
             progress.done();
+            if (state != null) {
+                synchronized (state) {
+                    for (String rel : state.managed) {
+                        if (rel.startsWith("resourcepacks/") && rel.indexOf('/', 14) < 0
+                                && Files.exists(gameDir.resolve(rel))) {
+                            result.resourcePacks.add(rel.substring(14));
+                        }
+                    }
+                }
+            }
             saveState();
             PendingOps.write(pendingFile, pending);
             if (!pending.isEmpty()) {
