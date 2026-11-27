@@ -1,0 +1,35 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.149'
+}
+
+version = mod_version
+group = 'com.svobologicstudios'
+
+base {
+    archivesName = 'friendsmp-updater'
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+
+    mods {
+        friendsmpupdater {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+processResources {
+    def props = [version: project.version]
+    inputs.properties props
+    filesMatching('META-INF/neoforge.mods.toml') {
+        expand props
+    }
+}

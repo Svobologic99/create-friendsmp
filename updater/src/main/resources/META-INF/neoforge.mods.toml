@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "friendsmpupdater"
+version = "${version}"
+displayName = "FriendSMP Updater"
+authors = "SvobologicStudios"
+description = '''
+Install only this mod. On every launch it downloads, updates and removes mods so your game matches the Create FriendSMP modpack, and it updates itself too.
+'''
+
+[[dependencies.friendsmpupdater]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.friendsmpupdater]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "CLIENT"
